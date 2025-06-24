@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseMapping", "DataBaseMapping.csproj", "{28EAF0F9-2F2B-4CE3-ABA1-D5C02B3BFEF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28EAF0F9-2F2B-4CE3-ABA1-D5C02B3BFEF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28EAF0F9-2F2B-4CE3-ABA1-D5C02B3BFEF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28EAF0F9-2F2B-4CE3-ABA1-D5C02B3BFEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28EAF0F9-2F2B-4CE3-ABA1-D5C02B3BFEF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {533EFD26-0754-475E-8269-701176F4622F}
+	EndGlobalSection
+EndGlobal
